@@ -1,0 +1,20 @@
+// Initialise les variables
+var numPlayers = 0;
+var maxPlayers = 10;
+var gameServerIP = '127.0.0.1';
+var gameServerPort = '3000';
+
+// Initialise le serveur de jeu
+var gameServer = new Server(gameServerIP, gameServerPort);
+
+// Initialise le système de gestion des joueurs
+var playerManager = new
+// Initialise les variables
+var numPlayers = 0;
+var maxPlayers = 10;
+var gameServerIP = '127.0.0.1';
+var gameServerPort = '3000';
+var weather = ['rain', 'clouds', 'sun', 'stars'];
+var checkpoints = [0, 1, 2];
+
+//
